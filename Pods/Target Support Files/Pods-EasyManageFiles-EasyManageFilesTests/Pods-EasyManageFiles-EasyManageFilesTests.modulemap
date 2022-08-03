@@ -1,6 +1,0 @@
-framework module Pods_EasyManageFiles_EasyManageFilesTests {
-  umbrella header "Pods-EasyManageFiles-EasyManageFilesTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
